@@ -1,0 +1,12 @@
+version: "2"
+
+services:
+
+    my-rest-go-app:
+        build: .
+        container_name: myrestapi
+        restart: always
+        working_dir: /go/src/sushionline
+        volumes: 
+            - .:/go/src/sushionline
+        entrypoint: ./sushionline

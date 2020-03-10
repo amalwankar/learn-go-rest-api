@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "imageNumber": "8",
+        "name": "Spicy Tuna Roll",
+        "ingredients": "Tuna, Chilli, Sauce, Nori, Rice"
+    },
+    {
+        "id": "2",
+        "imageNumber": "6",
+        "name": "California Roll",
+        "ingredients": "Crab, Avocado, Cucumber, Nori, Rice"
+    },
+    {
+        "id": "3",
+        "imageNumber": "3",
+        "name": "Abhishek Roll",
+        "ingredients": "Avacado, Cucumber, Ginger, Vegan Fish, Rice"
+    },
+    {
+        "id": "4",
+        "imageNumber": "10",
+        "name": "Fruit Roll",
+        "ingredients": "Straberry, Mango, Chiku, Rice"
+    },
+    {
+        "id": "5",
+        "imageNumber": "7",
+        "name": "Chicken Roll",
+        "ingredients": "Fat Chicken, Avacado, Cucumber, Pickeled Ginger, Rice"
+    }
+]
